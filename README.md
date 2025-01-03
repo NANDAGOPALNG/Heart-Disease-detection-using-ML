@@ -52,25 +52,6 @@ This project uses a publicly available heart disease dataset from [Kaggle](https
    python visualize_results.py
    ```
 
-## File Structure
-```
-Heart-Disease-detection-using-ML/
-├── data/
-│   └── heart_disease.csv  # Place your dataset here
-├── models/
-│   └── saved_model.pkl    # Trained models
-├── notebooks/
-│   └── EDA.ipynb          # Exploratory Data Analysis
-├── src/
-│   ├── preprocess.py      # Data preprocessing script
-│   ├── train_model.py     # Model training script
-│   └── evaluate_model.py  # Model evaluation script
-├── results/
-│   └── metrics.json       # Evaluation results
-├── requirements.txt       # Python dependencies
-├── README.md              # Project documentation
-└── visualize_results.py   # Visualization script
-```
 
 ## Contribution
 Contributions are welcome! Please follow these steps:
@@ -88,5 +69,5 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 - Open-source libraries and contributors.
 
 ## Contact
-For questions or feedback, please contact [Your Name] at [your.email@example.com].
+For questions or feedback, please contact [NANDA GOPAL.D] at [nandagopalng2004@gmail.com].
 
